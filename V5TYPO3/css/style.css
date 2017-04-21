@@ -1,0 +1,230 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana;
+	font-size: 12px;
+}
+p  {
+	margin: 0px;
+	padding: 0px;
+}
+a:LINK, a:VISITED, a:ACTIVE, a:HOVER {
+	text-decoration: none;
+}
+
+div#container {
+	position: absolute 0px 0px;
+	background-image: url(../images/bgSommer.jpg);
+	width: 900px;
+	height: 579px;
+}
+
+div#logo  {
+	width: 219px;
+	height: 105px;
+	float: left;
+}
+
+div#datum  {
+	font-size: 12px;
+	color: rgb(236, 236, 236);
+	float: right;
+	padding: 2px 2px;
+}
+
+div#navigationObenContainer {
+	clear: both;
+	background-image: url(../images/bgNavOben.png);
+	width: 900px;
+	height: 29px;
+}
+
+div#navigationObenContainerPosition ul{
+	width: 100%;
+	text-align: left;
+	margin: 0px 0px 0px 219px;
+	list-style-type: none;
+	font-size: 120%;
+	line-height: 130%;
+	padding: 5px 0px;
+}
+
+div#navigationObenContainer ul li {
+	display: inline;	
+	color: rgb(193, 193, 193);
+	margin: 0px;
+	padding: 0px;
+}
+
+div#navigationObenContainer a, a.naviOben {
+	text-decoration: none;
+	color: rgb(193, 193, 193);
+	background-color: none;
+	padding: 6px 3px 6px 3px;
+}
+
+div#navigationObenContainer a:hover, div#navigationObenContainer ul a:active, div#navigationObenContainer a.naviObenHover, div#navigationObenContainer a.naviObenActive {
+	background-image: url(../images/bgMenuRO_ACT.png);
+	background-repeat: repeat;
+	color: rgb(236, 236, 236);
+}
+
+/* NAVIGATION l Links */
+div#navigationLinksContainer {
+	width: 219px;
+	height: auto;
+	text-align: right;
+	float: left;
+	background-image: url(../images/bgWindow.png);
+	background-repeat: repeat;
+}
+
+div#navigationLinksContainer ul{
+	list-style: none;
+	margin:  0px;
+	padding: 0px;
+}
+div#navigationLinksContainer ul li {
+	list-style: url(none) none inside;
+	margin: 0px;
+	padding: 0px;
+	line-height: 15px;
+	border-bottom: rgb(193, 193, 193) 1px solid;
+}
+
+div#navigationLinksContainer ul li a {
+	display: block;
+	padding: 4px 76px 4px 0px;
+	margin: 0px;
+	text-decoration: none;
+	color: rgb(236, 236, 236);
+}
+
+/* 1. Ebene */
+div#navigationLinksContainer ul li a.naviLinks {
+	display:block;
+	background-color: none;
+	color: rgb(236, 236, 236);
+	font-size: 90%;
+}
+div#navigationLinksContainer ul li a.naviLinksHover, div#navigationLinksContainer ul li a.naviLinks:hover {
+	display:block;
+	background-color: none;
+	background-image: url(../images/bgMenuRO_ACT.png);
+	background-repeat: repeat-x;
+	color: rgb(31, 31, 31);
+	padding-left: 5px;
+	font-size: 90%;
+}
+div#navigationLinksContainer ul li a.naviLinksActive {
+	display:block;
+	background-image: url(../images/bgMenuRO_ACT.png);
+	background-repeat: repeat-x;
+	color: rgb(31, 31, 31);
+	padding-left: 5px;
+	font-size: 90%;
+}
+div#navigationLinksContainer ul li a.naviLinks_actifsub {
+	display: block;
+	background-color: none;
+	color: #ffffff;
+	padding-left: 5px;
+	font-size: 90%;
+}
+
+/* 2. Ebene */
+div#navigationLinksContainer ul li a.naviLinks_2 {
+	display:block;
+	background-color: #dddddd;
+	color: #333333;
+}
+div#navigationLinksContainer ul li a.naviLinks_2_Hover, div#navigationLinksContainer ul li a.naviLinks_2:hover {
+	display:block;
+	background-color: #dddddd;
+	color: #333333;
+}
+div#navigationLinksContainer ul li a.naviLinks_2_Active {
+	display: block;
+	background-color: #dddddd;
+	color: #333333;
+}
+
+div#suche  {
+	clear: left;
+	width: 209px;
+	border-top: rgb(193, 193, 193) 1px solid;
+	border-bottom: rgb(193, 193, 193) 1px solid;
+	text-align: left;
+	color: rgb(193, 193, 193);
+	font-size: 90%;
+	padding: 5px;
+	background-image: url(../images/bgWindow.png);
+	background-repeat: repeat;
+}
+
+div#footer {
+	background-image: url(../images/bgWindow.png);
+	background-repeat: repeat;
+	width: 900px;
+	height: 25px;
+	margin: 0px;
+	padding: 0px;
+}
+
+div#copyright  {
+	float: left;
+	font-size: 80%;
+	padding: 4px 5px;
+	color: rgb(193, 193, 193);
+}
+
+div#navigationFooter ul {
+	float: right;
+	text-align: right;
+	margin: 0px;
+	list-style-type: none;
+	font-size: 80%;
+	line-height: 130%;
+	padding: 4px 5px;
+}
+
+div#navigationFooter ul li {
+	display: inline;	
+	color: rgb(193, 193, 193);
+	margin: 0px;
+	padding: 0px;
+}
+
+div#navigationFooter a, a.naviFooter {
+	text-decoration: none;
+	color: rgb(193, 193, 193);
+	background-color: none;
+	padding: 3px;
+}
+
+div#navigationFooter a:hover, div#navigationFooter ul a:active, div#navigationFooter a.naviFooterHover, div#navigationFooter a.naviFooterActive {
+	background-color: rgb(134, 134, 134);
+	color: #FFF;
+}
+
+div#center  {
+	padding: 10px;
+	margin: 10px 10px 10px 230px;
+	background-image: url(../images/bgWindow.png);
+	background-repeat: repeat;
+}
+
+div#center img {
+	float: left;
+	padding: 0px 10px 0px 0px;
+}
+
+div#center p {
+	padding: 0px;
+	text-align: justify;
+	font-size: 100%;
+	color: rgb(250, 250, 250);
+}
