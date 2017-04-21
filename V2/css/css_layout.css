@@ -1,0 +1,140 @@
+@charset "utf-8";
+/* CSS Document */
+html, body {
+	margin: 0px;
+	padding: 0px;
+}
+.bgPict {
+	background-color: #FC3;
+	background-image: url(../images/PluggedLayout/design/BackgroundComplete.jpg);
+	background-repeat: no-repeat;
+}
+#iframe {
+	position: absolute;
+	width: 693px;
+	height: 468px;
+	left: 167px;
+	top: 109px;
+	z-index: 2;
+
+}
+#logo {
+	position: absolute;
+	top: 3px;
+	left: 680px;
+	height: 117px;
+	width: 300px;
+	background-image: url(../images/PluggedLayout/design/logo.png);
+	background-repeat: no-repeat;
+	z-index: 2;
+}
+a img {
+	border-width: 0px;
+}
+
+a:link {
+	text-decoration: underline;
+	color: #069;
+}
+a:visited {
+	text-decoration:none;
+	color: #069;
+}
+a:hover {
+	text-decoration:underline;
+	color: #069;
+}
+a:active {
+	text-decoration:none;
+	color: #069;
+}
+
+h1 {
+	font-size:16px;
+	font-weight: bold;
+	font-style: normal;
+	font-family: Verdana;
+	border-bottom: #000 dotted thin;
+	margin: 20px 5px 15px 5px;
+	padding: 0px;
+	text-transform: uppercase;
+	color: #333;
+	clear: left;
+}
+h2 {
+	font-size:14px;
+	font-weight: bold;
+	font-style: normal;
+	font-family: Verdana;
+	margin: 10px 5px 10px 5px;
+	padding: 0px;
+	color: #333;
+	clear: left;
+}
+p {
+	font-family: Verdana;
+	font-size: 12px;
+	font-style:normal;
+	font-weight: normal;
+	color: #000;
+	margin: 0px 2px 5px 2px;
+	padding: 0px 10px 10px 10px;
+}
+.hervorgehoben {
+	color:#333;
+	font-weight: bold;
+	margin: 0px 0px 0px 25px;
+	padding: 0px;
+	font-size: 13px;
+}
+#facebook {
+	position: absolute;
+	top: 498px;
+	left: 10px;
+	height: 24px;
+	width: 100px;
+	margin: 2px;
+	z-index: 5;
+
+}
+#myspace {
+	position: absolute;
+	top: 525px;
+	left: 10px;
+	height: 24px;
+	width: 100px;
+	margin: 2px;
+	z-index: 5;
+
+}
+#newsletter {
+	position: absolute;
+	top: 552px;
+	left: 10px;
+	height: 24px;
+	width: 105px;
+	margin: 2px;
+	z-index: 5;
+}
+
+#sponsoren {
+	position: absolute;
+	top: 582px;
+	left: 42px;
+	height: 24px;
+	z-index: 9;
+
+}
+.logos_sponsoren {
+	float: left;
+	padding: 0px 2px 0px 2px;
+	border: none;
+}
+#impressum {
+	position: absolute;
+	top: 582px;
+	left: 568px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	color:#333;
+}
