@@ -1,0 +1,334 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Fredi's H&uuml;ttn:</title>
+<!-- TemplateEndEditable -->
+<link href="../main_stylesheet.css" rel="stylesheet" type="text/css">
+<script type="text/JavaScript">
+<!--
+function mmLoadMenus() {
+  if (window.mm_menu_0322152610_0) return;
+            window.mm_menu_0322152610_0 = new Menu("root",109,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#CC0099","#CC6699","#FFFFFF","left","middle",3,1,1000,-5,7,true,false,true,0,true,true);
+  mm_menu_0322152610_0.addMenuItem("Innenräume","location='huettn_innen.htm'");
+  mm_menu_0322152610_0.addMenuItem("Aussenansicht","location='huettn_aussen.htm'");
+   mm_menu_0322152610_0.hideOnMouseOut=true;
+   mm_menu_0322152610_0.bgColor='#FFFFFF';
+   mm_menu_0322152610_0.menuBorder=1;
+   mm_menu_0322152610_0.menuLiteBgColor='#CC3399';
+   mm_menu_0322152610_0.menuBorderBgColor='#CC3399';
+    window.mm_menu_0322153111_0 = new Menu("root",113,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#CC0099","#CC6699","#FFFFFF","left","middle",3,1,1000,-5,7,true,false,true,0,true,true);
+  mm_menu_0322153111_0.addMenuItem("Wandern","location='sommer_wandern.htm'");
+  mm_menu_0322153111_0.addMenuItem("Schwimmen","location='../sommer_schwimmen.htm'");
+  mm_menu_0322153111_0.addMenuItem("Radfahren","location='sommer_mountainbike.htm'");
+  mm_menu_0322153111_0.addMenuItem("Sommerrodeln","location='sommer_go-kart.htm'");
+   mm_menu_0322153111_0.hideOnMouseOut=true;
+   mm_menu_0322153111_0.bgColor='#FFFFFF';
+   mm_menu_0322153111_0.menuBorder=1;
+   mm_menu_0322153111_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0322153111_0.menuBorderBgColor='#FFFFFF';
+window.mm_menu_0322153249_0 = new Menu("root",89,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#CC0099","#CC6699","#FFFFFF","left","middle",3,1,1000,-5,7,true,false,true,0,true,true);
+  mm_menu_0322153249_0.addMenuItem("Schifahren","location='winter_schifahren.htm'");
+  mm_menu_0322153249_0.addMenuItem("Funpark","location='winter_funpark.htm'");
+  mm_menu_0322153249_0.addMenuItem("Rodeln","location='winter_rodeln.htm'");
+  mm_menu_0322153249_0.addMenuItem("Langlaufen","location='winter_langlaufen.htm'");
+   mm_menu_0322153249_0.hideOnMouseOut=true;
+   mm_menu_0322153249_0.bgColor='#FFFFFF';
+   mm_menu_0322153249_0.menuBorder=1;
+   mm_menu_0322153249_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0322153249_0.menuBorderBgColor='#FFFFFF';
+
+mm_menu_0322153249_0.writeMenus();
+} // mmLoadMenus()
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script language="JavaScript" src="../mm_menu.js"></script>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable --><!-- TemplateParam name="Kopfteil mit Titel und Photo" type="boolean" value="true" --><!-- TemplateParam name="alternativer Einfuegepunkt" type="boolean" value="false" --><!-- TemplateParam name="Fotogallerie Tabelle" type="boolean" value="false" --><!-- TemplateParam name="Preis Tabelle" type="boolean" value="false" --><!-- TemplateParam name="Ausflug Navigation" type="boolean" value="false" --><!-- TemplateParam name="Ausflug Vorschlaege" type="boolean" value="false" -->
+</head>
+
+<body onLoad="MM_preloadImages('../images/animated_huettn.gif','../images/nav_huettn_on.gif','../images/animated_sommer_on.gif','../images/nav_sommer_on.gif','../images/animated_winter_on.gif','../images/nav_winter_on.gif','../images/nav_angebote_on.gif','../images/nav_kontakt_on.gif','../images/nav_zurueck_on.gif','../images/nav_weiter_on.gif')">
+<script language="JavaScript1.2">mmLoadMenus();</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top"><table width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img name="spacerTop" src="../images/spacerTop.gif" width="1" height="10" border="0" alt=""></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><img src="../images/mainLeft.png" alt="" name="topLeft" width="203" height="132" class="altTextBilder" id="topLeft"></td>
+            <td><img src="../images/mainCenter.png" alt="" name="topCenter" width="312" height="132" class="altTextBilder" id="topCenter"></td>
+            <td><img src="../images/mainRight.png" alt="" name="topRight" width="203" height="132" class="altTextBilder" id="topRight"></td>
+          </tr>
+          <tr>
+            <td colspan="3" align="left"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+                <tr>
+                  <td align="left" valign="top"><img name="spacer_huettn" src="../images/spacer_huettn.gif" width="95" height="25" border="0" alt=""></td>
+                  <td align="left" valign="top"><img name="spacer_sommer" src="../images/spacer_sommer.gif" width="89" height="25" border="0" alt=""></td>
+                  <td align="left" valign="top"><img name="spacer_winter" src="../images/spacer_winter.gif" width="74" height="25" border="0" alt=""></td>
+                  </tr>
+                        </table></td>
+            </tr>
+          <tr>
+            <td colspan="3"><table width="720" border="0" cellspacing="0" cellpadding="1">
+                <tr>
+                  <td bgcolor="#000000"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" bgcolor="#CC6699"><table border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td><img src="../images/nav_huettn_off.gif" alt="Informationen zur Ausstattung" name="nav_huetnn" width="95" height="25" border="0" usemap="#nav_huetnnMap" id="nav_huetnn" title="Informationen zur Ausstattung"></td>
+                          <td><img src="../images/nav_sommer_off.gif" alt="Sommeraktivit&auml;ten rund um die H&uuml;tte" name="nav_Sommer" width="89" height="25" border="0" usemap="#nav_SommerMap" id="nav_Sommer" title="Sommeraktivit&auml;ten rund um die H&uuml;tte"></td>
+                          <td><img src="../images/nav_winter_off.gif" alt="Winteraktivit&auml;ten rund um die H&uuml;tten" name="nav_winter" width="74" height="25" border="0" usemap="#nav_winterMap" id="nav_winter" title="Winteraktivit&auml;ten rund um die H&uuml;tten"></td>
+                          <td><img src="../images/nav_angebote_off.gif" alt="Unsere Preise und Angebote" name="nav_angebote" width="96" height="25" border="0" usemap="#nav_angeboteMap" id="nav_angebote" title="Unsere Preise und Angebote"></td>
+                          <td><img src="../images/nav_kontakt_off.gif" alt="Wie sind wir erreichbar" name="nav_kontakt" width="82" height="25" border="0" usemap="#nav_kontaktMap" id="nav_kontakt" title="Wie sind wir erreichbar"></td>
+                        </tr>
+                      </table>
+                        <map name="nav_huetnnMap">
+                          <area shape="rect" coords="10,6,86,20" href="#" onMouseOver="MM_swapImage('spacer_huettn','','../images/animated_huettn.gif','nav_huetnn','','../images/nav_huettn_on.gif',1);MM_showMenu(window.mm_menu_0322152610_0,0,28,null,'nav_huetnn')" onMouseOut="MM_swapImgRestore();MM_startTimeout()">
+                        </map>
+                        <map name="nav_SommerMap">
+                          <area shape="rect" coords="10,5,79,20" href="#" onMouseOver="MM_swapImage('spacer_sommer','','../images/animated_sommer_on.gif','nav_Sommer','','../images/nav_sommer_on.gif',1);MM_showMenu(window.mm_menu_0322153111_0,0,28,null,'nav_Sommer')" onMouseOut="MM_swapImgRestore();MM_startTimeout();">
+                        </map>
+                        <map name="nav_winterMap">
+                          <area shape="rect" coords="10,5,65,20" href="#" onMouseOver="MM_swapImage('spacer_winter','','../images/animated_winter_on.gif','nav_winter','','../images/nav_winter_on.gif',1);MM_showMenu(window.mm_menu_0322153249_0,0,28,null,'nav_winter')" onMouseOut="MM_swapImgRestore();MM_startTimeout()">
+                        </map>
+                        <map name="nav_angeboteMap">
+                          <area shape="rect" coords="9,4,86,18" href="../angebote.htm" onMouseOver="MM_swapImage('nav_angebote','','../images/nav_angebote_on.gif',1)" onMouseOut="MM_swapImgRestore()">
+                        </map>
+                        <map name="nav_kontaktMap">
+                          <area shape="rect" coords="11,3,76,19" href="../kontakt.htm" onMouseOver="MM_swapImage('nav_kontakt','','../images/nav_kontakt_on.gif',1)" onMouseOut="MM_swapImgRestore()">
+                        </map></td>
+                    </tr>
+                  </table></td>
+                </tr>
+                        </table></td>
+            </tr>
+          <tr>
+            <td colspan="3"><img name="spacerBeforeContent" src="../images/spacerBeforeContent.gif" width="1" height="1" border="0" alt=""></td>
+          </tr>
+          <tr>
+            <td colspan="3"><table width="720" border="0" cellpadding="1" cellspacing="0">
+              <tr>
+                <td bgcolor="#000000"><table width="100%" border="0" cellpadding="6" cellspacing="0">
+                    <tr>
+                      <td align="left" valign="top" bgcolor="#FFFFFF"><!-- TemplateBeginIf cond="_document['Kopfteil mit Titel und Photo']" -->
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td colspan="3"><!-- TemplateBeginEditable name="Kopfteil Titelbild" --><img src="" alt="MainTopBild" name="submenu_title" width="590" height="80" class="altTextBilder" id="title" style="background-color: #FFFFFF" title="MainTopBild" /><!-- TemplateEndEditable --></td>
+                          </tr>
+                          <!-- TemplateBeginRepeat name="Kopfteil Wiederholbar" -->
+                          <tr>
+                            <td align="left" valign="top"><img name="spacer_Main_Left" src="../images/spacer_Main_Left.gif" width="225" height="1" border="0" alt=""></td>
+                            <td align="left"><img name="spaer_Main_Center" src="../images/spacer_Main_Center.gif" width="10" height="1" border="0" alt=""></td>
+                            <td><img name="spacer_Main_Right" src="../images/spacer_Main_Right.gif" width="365" height="1" border="0" alt=""></td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td align="center" valign="top"><!-- TemplateBeginEditable name="Kopfteil Seitenbild" --> <img src="" alt="MainSideBild" name="submenu_photo" width="200" height="200" class="altTextBilder" id="photo" style="background-color: #FFFFFF" title="MainSideBild" /><br>
+                                  <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="Kopfteil Seitenbild Info" --><span class="mausanweisung">Maus &uuml;ber das Bild bewegen</span> <!-- TemplateEndEditable --></td>
+                                </tr>
+                            </table></td>
+                            <td>&nbsp;</td>
+                            <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#CC9999">
+                                <tr>
+                                  <td width="30" height="30" align="left" valign="top"><img src="../images/mainLeftTopCorner.gif" width="30" height="30"></td>
+                                  <td rowspan="3" align="center" valign="top" bgcolor="#CC9999"><!-- TemplateBeginEditable name="Kopfteil Informationen" -->
+                                    <div align="justify">Lorem ipsum dolor sit amet, consectetuer sadipscing elitr, sed diam  nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  sed diam voluptua. At vero eos et accusam et justo duo dolores et ea  rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem  ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing  elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna  aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo  dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus  est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur  sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et  dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam  et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea  takimata sanctus est Lorem ipsum dolor sit amet.</div>
+                                  <!-- TemplateEndEditable --></td>
+                                  <td width="30" height="30" align="right" valign="top"><img src="../images/mainRightTopCorner.gif" width="30" height="30"></td>
+                                </tr>
+                                <tr>
+                                  <td bgcolor="#CC9999">&nbsp;</td>
+                                  <td bgcolor="#CC9999">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="30" height="30" align="left" valign="bottom"><img src="../images/mainLeftBotCorner.gif" width="30" height="30"></td>
+                                  <td width="30" height="30" align="right" valign="bottom"><img src="../images/mainRightBotCorner.gif" width="30" height="30"></td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                          <!-- TemplateEndRepeat -->
+						  <tr>
+						    <td>&nbsp;</td>
+						    <td>&nbsp;</td>
+						    <td valign="top" bgcolor="#FFFFFF">&nbsp;</td>
+						    </tr>
+						  <!-- TemplateBeginIf cond="_document['Ausflug Vorschlaege']" -->
+						  <tr>
+                            <td>&nbsp;</td>
+						    <td>&nbsp;</td>
+						    <td valign="top" bgcolor="#FFFFFF">&nbsp;</td>
+						    </tr>
+						  <!-- TemplateBeginRepeat name="Ausflug Wiederholbar" -->
+						  <tr>
+						    <td align="left" valign="top"><h5>Ausflugsname:</h5>
+						        <!-- TemplateBeginEditable name="Ausflugname" -->Ausflugname<!-- TemplateEndEditable --></td>
+                            <td>&nbsp;</td>
+						    <td align="left" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td><h5>Infos:&nbsp;<!-- TemplateBeginEditable name="Ausflug Infos" -->Ausflug Infos<!-- TemplateEndEditable --></h5>                                    </td>
+                                  </tr>
+                                <tr>
+                                  <td><h5>Dauer: <!-- TemplateBeginEditable name="Ausflug Dauer" -->Ausflug Dauer<!-- TemplateEndEditable --></h5>                                    </td>
+                                  </tr>
+                            </table></td>
+						    </tr>
+                          <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td valign="top" bgcolor="#FFFFFF">&nbsp;</td>
+                          </tr>
+						  <!-- TemplateEndRepeat --><!-- TemplateEndIf -->
+                          <!-- TemplateBeginIf cond="_document['Ausflug Navigation']" -->
+                          <tr>
+                            <td align="left"><!-- TemplateBeginEditable name="Navigation Zurueck" --><img src="../images/nav_zurueck_off.gif" name="nav_zurueck" width="100" height="25" id="Image1" onMouseOver="MM_swapImage('Image1','','../images/nav_zurueck_on.gif',1)" onMouseOut="MM_swapImgRestore()"><!-- TemplateEndEditable --></td>
+                            <td>&nbsp;</td>
+                            <td align="right" valign="top" bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="Navigation Weiter" --><img src="../images/nav_weiter_off.gif" name="nav_weiter" width="100" height="25" id="Image2" onMouseOver="MM_swapImage('Image2','','../images/nav_weiter_on.gif',1)" onMouseOut="MM_swapImgRestore()"><!-- TemplateEndEditable --></td>
+                          </tr>
+                          <!-- TemplateEndIf -->
+                        </table>
+                      <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['alternativer Einfuegepunkt']" --><!-- TemplateBeginEditable name="alternativer Einfuegepunkt Content" -->alternativer Einfuegepunkt<!-- TemplateEndEditable --><!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Fotogallerie Tabelle']" -->
+                      <table width="465" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <!-- TemplateBeginRepeat name="Fotogallerie Wiederholen" -->
+                        <tr>
+                          <td width="225" align="center"><table border="0" cellspacing="0" cellpadding="1">
+                              <tr>
+                                <td bgcolor="#000000"><table border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                      <td align="center" bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="Fotogallerie Foto1" --><img src="" alt="Schladming Foto1" width="225" height="200" class="altTextBilder" id="Photo1" style="background-color: #FFFFFF" /><!-- TemplateEndEditable --><br>
+                                          <!-- TemplateBeginEditable name="Fotogallerie Foto1 Infos" --><span class="Bildbeschreibung">Infos zum Bild</span><!-- TemplateEndEditable --></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                          </table></td>
+                          <td width="15">&nbsp;</td>
+                          <td width="225" align="center"><table border="0" cellspacing="0" cellpadding="1">
+                              <tr>
+                                <td bgcolor="#000000"><table border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                      <td align="center" bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="Fotogallerie Foto2" --><img src="" alt="Schladming Foto2" name="Photo2" width="225" height="200" class="altTextBilder" id="Photo1" style="background-color: #FFFFFF" /><!-- TemplateEndEditable --><br>
+                                          <!-- TemplateBeginEditable name="Fotogallerie Foto2 Infos" --><span class="Bildbeschreibung">Infos zum Bild</span><!-- TemplateEndEditable --></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                        <tr>
+                          <td width="225">&nbsp;</td>
+                          <td width="15">&nbsp;</td>
+                          <td width="225">&nbsp;</td>
+                        </tr>
+                        <!-- TemplateEndRepeat -->
+                      </table>
+                      <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Preis Tabelle']" -->
+                      <table width="500" border="0" align="center" cellpadding="1" cellspacing="0">
+                        <tr>
+                          <td bgcolor="#000000"><table width="500" border="0" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="1">
+                                    <tr>
+                                      <td align="center" valign="top"><h5>Preisliste 2009</h5></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                            </table>
+                              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td bordercolor="0"><img name="spacerPriceTable" src="../images/spacerPriceTable.gif" width="1" height="1" border="0" alt=""></td>
+                                </tr>
+                              </table>
+                            <table width="500" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td width="110" align="center"><h5>Anzahl der Personen</h5></td>
+                                        <td width="1" bordercolor="0" bgcolor="#000000"><img name="spacerPriveTableVert" src="../images/spacerPriveTableVert.gif" width="1" height="1" border="0" alt=""></td>
+                                        <td width="100" align="center"><h5>Sommer<br>
+                                          /Tag /Woche</h5></td>
+                                        <td width="1" bordercolor="0" bgcolor="#000000"><img name="spacerPriveTableVert" src="../images/spacerPriveTableVert.gif" width="1" height="1" border="0" alt=""></td>
+                                        <td width="100" align="center" valign="top"><h5>Winter<br>
+                                          / Woche</h5></td>
+                                      </tr>
+                                  </table></td>
+                                </tr>
+                              </table>
+                            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td bordercolor="0"><img name="spacerPriceTable" src="../images/spacerPriceTable.gif" width="1" height="1" border="0" alt=""></td>
+                                </tr>
+                              </table>
+                            <table width="500" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td valign="top" bgcolor="#FFFFFF"><!-- TemplateBeginRepeat name="Pricetable Wiederholbar" -->
+                                    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td width="110" align="center"><!-- TemplateBeginEditable name="Price Personen" -->Price Personen<!-- TemplateEndEditable --></td>
+                                        <td width="1" bordercolor="0" bgcolor="#000000"><img name="spacerPriveTableVert" src="../images/spacerPriveTableVert.gif" width="1" height="1" border="0" alt=""></td>
+                                        <td width="100" align="center"><!-- TemplateBeginEditable name="Price Sommer" -->Price Sommer<!-- TemplateEndEditable --></td>
+                                        <td width="1" bordercolor="0" bgcolor="#000000"><img name="spacerPriveTableVert" src="../images/spacerPriveTableVert.gif" width="1" height="1" border="0" alt=""></td>
+                                        <td width="100" align="center" valign="top"><!-- TemplateBeginEditable name="Price Winter" -->Price Winter<!-- TemplateEndEditable --></td>
+                                      </tr>
+                                    </table>
+                                  <!-- TemplateEndRepeat --></td>
+                                </tr>
+                            </table></td>
+                        </tr>
+                      </table>
+                      <!-- TemplateEndIf -->
+                      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                            <tr>
+                              <td align="right"><hr align="right" width="150" size="1" noshade="noshade" /></td>
+                            </tr>
+                            <tr>
+                              <td align="right"><span class="copyright">&copy;2009, Design by Robert Heisz </span></td>
+                            </tr>
+                        </table></td>
+                    </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+<map name="nav_huetnnMap"><area shape="rect" coords="10,6,86,20" href="#" onMouseOver="MM_swapImage('spacer_huettn','','../images/animated_huettn.gif','nav_huetnn','','../images/nav_huettn_on.gif',1)" onMouseOut="MM_swapImgRestore()">
+</map>
+<map name="nav_SommerMap"><area shape="rect" coords="10,5,79,20" href="#" onMouseOver="MM_swapImage('spacer_sommer','','../images/animated_sommer_on.gif','nav_Sommer','','../images/nav_sommer_on.gif',1)" onMouseOut="MM_swapImgRestore()">
+</map>
+<map name="nav_winterMap"><area shape="rect" coords="10,4,65,19" href="#" onMouseOver="MM_swapImage('spacer_winter','','../images/animated_winter_on.gif','nav_winter','','../images/nav_winter_on.gif',1)" onMouseOut="MM_swapImgRestore()">
+</map>
+<map name="nav_angeboteMap"><area shape="rect" coords="9,5,86,19" href="#" onMouseOver="MM_swapImage('nav_angebote','','../images/nav_angebote_on.gif',1)" onMouseOut="MM_swapImgRestore()">
+</map>
+<map name="nav_kontaktMap">
+<area shape="rect" coords="11,3,76,19" href="#" onMouseOver="MM_swapImage('nav_kontakt','','../images/nav_kontakt_on.gif',1)" onMouseOut="MM_swapImgRestore()">
+</map></body>
+</html>
